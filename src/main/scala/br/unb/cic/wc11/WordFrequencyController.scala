@@ -1,4 +1,4 @@
-package br.unb.cic
+package br.unb.cic.wc11
 
 class WordFrequencyController extends MessageDispatcher {
 

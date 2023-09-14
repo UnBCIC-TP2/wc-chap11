@@ -1,9 +1,6 @@
 package br.unb.cic
 
-import java.io.File
-import java.io.PrintWriter
-
-
+import br.unb.cic.wc11.{ExecuteMessage, InitProgramMessage, WordFrequencyController}
 import org.backuity.clist._
 
 object MainProgram extends CliMain[Unit] (
